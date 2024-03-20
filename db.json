@@ -1,0 +1,20 @@
+{
+    "contra" :[
+       {
+         "usuario": "mario",
+         "Password": "12345"
+
+
+         },
+  
+       
+         {
+            "usuario": "Jose",
+            "Password": "23455"
+
+            }
+     
+            
+    ]
+
+}
